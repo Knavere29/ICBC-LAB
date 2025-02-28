@@ -1,0 +1,19 @@
+Version 4
+SymbolType BLOCK
+RECTANGLE Normal 546 182 67 -68
+TEXT 207 56 Left 2 Oscillator Gain Cell
+PIN 304 -64 TOP 8
+PINATTR PinName VDD
+PINATTR SpiceOrder 1
+PIN 64 16 LEFT 8
+PINATTR PinName in_p
+PINATTR SpiceOrder 2
+PIN 64 112 LEFT 8
+PINATTR PinName in_n
+PINATTR SpiceOrder 3
+PIN 544 16 RIGHT 8
+PINATTR PinName out_p
+PINATTR SpiceOrder 4
+PIN 544 112 RIGHT 8
+PINATTR PinName out_n
+PINATTR SpiceOrder 5

@@ -1,0 +1,16 @@
+Version 4
+SymbolType BLOCK
+LINE Normal -47 -114 80 16
+LINE Normal -48 144 81 18
+LINE Normal -47 -114 -48 144
+CIRCLE Normal 105 30 79 5
+SYMATTR SpiceModel inverter.asc
+PIN -48 16 LEFT 8
+PINATTR PinName in
+PINATTR SpiceOrder 1
+PIN 112 16 RIGHT 8
+PINATTR PinName out
+PINATTR SpiceOrder 2
+PIN 16 -48 TOP 8
+PINATTR PinName VDD
+PINATTR SpiceOrder 3
