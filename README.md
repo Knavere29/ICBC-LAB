@@ -1,5 +1,5 @@
 # ICBC-Integrated Circuits  for Broadband  Communications:
-lab tutorial circuits
+lab tutorial circuits designed using 130nm CMOS model from predictive transistor model (PTM).
 
 ## Covers:
 1. CS, CD, CG and Cascode configuration for TIA (Transimpedance Amplifier)
