@@ -7,8 +7,8 @@ lab tutorial circuits
 
 ### Folder Structure
 ICBC-LAB
-├───Cascode
-├───Common_Gate_and_Common_Drain
-├───Common_Source
-├───Logic_Gates
-└───Oscillator
+1. Cascode : CS-CG and Inductive Peaking
+2. Common_Gate_and_Common_Drain : Small Signal Analysis
+3. Common_Source : Small Signal Analysis
+4. Logic_Gates : Logic Gate
+5. Oscillator : Quadrature Phase Ring Oscillator
