@@ -1,4 +1,4 @@
-# ICBC-Integrated Circuits  for Broadband  Communications (ICBC):
+# ICBC-Integrated Circuits  for Broadband  Communications:
 lab tutorial circuits
 
 ##Covers:
